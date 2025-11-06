@@ -1,0 +1,16 @@
+﻿# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Env / secrets
+.env
+
+# Vite / build
+dist/
+.cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
