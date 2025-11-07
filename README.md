@@ -5,22 +5,18 @@ It features secure user authentication, event management, and an intuitive front
 
 🚀 Features
 
-🔐 JWT Authentication — Secure login/signup with bcrypt password hashing.
-
-📅 Event Management — Create and view personal time slots or events.
-
-🔁 Slot Swapping — Request, approve, or reject slot swaps.
-
-⚙️ Full-Stack Integration — Seamless connection between Node.js backend and React frontend.
-
-💾 JSON-based Mock Database — Lightweight data persistence for local development.
+✅ JWT Authentication — Secure login/signup with bcrypt password hashing
+✅ Event Management — Create and view personal time slots
+✅ Slot Swapping — Request, approve, or reject swap requests
+✅ Full-Stack Integration — Node.js backend + React frontend
+✅ JSON-based Mock Database for development
 
 🧱 Tech Stack
 Layer	Technology
 Frontend	React, Vite, TailwindCSS
 Backend	Node.js, Express.js
 Authentication	JWT, bcrypt
-Database	JSON files (users.json, events.json, swap_requests.json)
+Database	JSON files
 Version Control	Git & GitHub
 ⚙️ Setup Instructions (Local Development)
 1️⃣ Clone the Repository
@@ -47,10 +43,10 @@ npm run dev
 Method	Endpoint	Description
 POST	/api/auth/signup	Register new user
 POST	/api/auth/login	Login existing user
-GET	/api/events	Get all events
+GET	/api/events	Fetch all events
 POST	/api/events	Create new event
-POST	/api/swaps/request	Send swap request
-POST	/api/swaps/accept	Accept swap request
+POST	/api/swaps/request	Request a slot swap
+POST	/api/swaps/accept	Accept a swap request
 📁 Folder Structure
 slotswap/
 │
@@ -71,38 +67,31 @@ slotswap/
 │
 └── README.md
 
-📸 Screenshots (Optional)
+📸 Screenshots of UI
+✅ Login Page
 
-Add screenshots of your UI in a screenshots/ folder and link them here:
-
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+✅ Dashboard
 
 🧑‍💻 Developer
 
 👤 Author: Priyanshu Raj
-
-💻 Project: SlotSwapper (Full-Stack MERN-Style Application)
+💻 Project: SlotSwapper (Full-Stack Application)
 📬 Contact: Available on GitHub
 
 🛠️ Future Improvements
 
-🔗 Migrate from JSON files to MongoDB or PostgreSQL
+🔗 Move from JSON storage → MongoDB/PostgreSQL
 
-🌍 Deploy Backend (Render / Railway) and Frontend (Vercel)
+🌍 Deploy Backend (Render/Railway) & Frontend (Vercel)
 
-📆 Add calendar drag & drop functionality
+📆 Add drag & drop calendar UI
 
-🔔 Add real-time notifications for swap requests
+🔔 Add real-time notifications
 
 📄 License
 
-This project is licensed under the MIT License — feel free to use and modify it.
+This project is licensed under the MIT License — you may freely use and modify it.
 
 🌟 Show Your Support
 
-If you like this project, give it a ⭐ on GitHub to support future improvements!
-
-🔗 Repository Link
-
-👉 SlotSwapper GitHub Repository
+If you like this project, give it a ⭐ on GitHub!
