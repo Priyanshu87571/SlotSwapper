@@ -69,7 +69,8 @@ slotswap/
 
 📸 Screenshots of UI
 ✅ Login Page
-"C:\Users\Admin\Downloads\Login.png"
+<img width="1902" height="906" alt="Screenshot 2025-08-16 195642" src="<img width="1024" height="1024" alt="Login" src="https://github.com/user-attachments/assets/622b3097-2c0c-439d-86cb-9daa4a004a8e" />
+" />
 
 ✅ Dashboard
 
