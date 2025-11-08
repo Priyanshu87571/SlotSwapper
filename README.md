@@ -69,6 +69,7 @@ slotswap/
 
 📸 Screenshots of UI
 ✅ Login Page
+"C:\Users\Admin\Downloads\Login.png"
 
 ✅ Dashboard
 
