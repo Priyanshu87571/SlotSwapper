@@ -6,9 +6,13 @@ It features secure user authentication, event management, and an intuitive front
 ## Features
 
 ✅ JWT Authentication — Secure login/signup with bcrypt password hashing
+
 ✅ Event Management — Create and view personal time slots
+
 ✅ Slot Swapping — Request, approve, or reject swap requests
+
 ✅ Full-Stack Integration — Node.js backend + React frontend
+
 ✅ JSON-based Mock Database for development
 
 🧱 Tech Stack
