@@ -24,7 +24,9 @@ Database	JSON files
 Version Control	Git & GitHub
 ⚙️ Setup Instructions (Local Development)
 1️⃣ Clone the Repository
+
 git clone https://github.com/Priyanshu87571/SlotSwapper.git
+
 cd SlotSwapper/slotswap
 
 2️⃣ Backend Setup
