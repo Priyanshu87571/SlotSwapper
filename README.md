@@ -27,7 +27,7 @@ Version Control	Git & GitHub
 
 git clone https://github.com/Priyanshu87571/SlotSwapper.git
 
-cd SlotSwapper/slotswap
+cd SlotSwapper
 
 2️⃣ Backend Setup
 cd backend
