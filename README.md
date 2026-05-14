@@ -15,7 +15,7 @@ It features secure user authentication, event management, and an intuitive front
 
 ✅ JSON-based Mock Database for development
 
-🧱 Tech Stack
+### 🧱 Tech Stack
 Layer	Technology
 Frontend	React, Vite, TailwindCSS
 Backend	Node.js, Express.js
