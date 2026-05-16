@@ -20,7 +20,9 @@ It features secure user authentication, event management, and an intuitive front
 Layer	Technology
 
 Frontend	React, Vite, TailwindCSS
+
 Backend	Node.js, Express.js
+
 Authentication	JWT, bcrypt
 Database	JSON files
 Version Control	Git & GitHub
