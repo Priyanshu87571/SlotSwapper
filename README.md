@@ -24,7 +24,9 @@ Frontend	React, Vite, TailwindCSS
 Backend	Node.js, Express.js
 
 Authentication	JWT, bcrypt
+
 Database	JSON files
+
 Version Control	Git & GitHub
 ⚙️ Setup Instructions (Local Development)
 1️⃣ Clone the Repository
