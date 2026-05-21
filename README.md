@@ -93,7 +93,9 @@ slotswap/
 🧑‍💻 Developer
 
 👤 Author: Priyanshu Raj
+
 💻 Project: SlotSwapper (Full-Stack Application)
+
 📬 Contact: Available on GitHub
 
 🛠️ Future Improvements
