@@ -62,9 +62,11 @@ POST	/api/events	Create new event
 POST	/api/swaps/request	Request a slot swap
 POST	/api/swaps/accept	Accept a swap request
 📁 Folder Structure
+
 slotswap/
 │
 ├── backend/
+
 │   ├── index.js
 │   ├── users.json
 │   ├── events.json
