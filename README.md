@@ -72,7 +72,9 @@ slotswap/
 │   ├── users.json
 
 │   ├── events.json
+
 │   ├── swap_requests.json
+
 │   └── package.json
 │
 ├── frontend/
