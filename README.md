@@ -84,7 +84,9 @@ slotswap/
 │   │   ├── App.jsx
 
 │   │   ├── components/
+
 │   │   └── pages/
+
 │   ├── vite.config.js
 │   └── package.json
 │
