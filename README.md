@@ -106,7 +106,7 @@ slotswap/
 
 👤 Author: Priyanshu Raj
 
-💻 Project: SlotSwapper (Full-Stack Application)
+💻 Project: SlotSwapper 
 
 📬 Contact: Available on GitHub
 
