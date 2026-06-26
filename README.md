@@ -117,10 +117,6 @@ slotswap/
 
 🌍 Deploy Backend (Render/Railway) & Frontend (Vercel)
 
-📆 Add drag & drop calendar UI
-
-🔔 Add real-time notifications
-
 📄 License
 
 This project is licensed under the MIT License — you may freely use and modify it.
