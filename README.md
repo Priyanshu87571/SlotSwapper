@@ -1,4 +1,4 @@
-# 🕒 SlotSwapper
+# SlotSwapper
 
 SlotSwapper is a full-stack web application that allows users to create, view, and swap scheduled slots with others.
 It features secure user authentication, event management, and an intuitive frontend interface powered by React + Vite.
