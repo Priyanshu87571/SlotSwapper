@@ -65,6 +65,7 @@ POST	/api/swaps/accept	Accept a swap request
 
 slotswap/
 │
+
 ├── backend/
 
 │   ├── index.js
@@ -77,6 +78,7 @@ slotswap/
 
 │   └── package.json
 │
+
 ├── frontend/
 
 │   ├── src/
