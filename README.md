@@ -64,7 +64,7 @@ POST	/api/swaps/accept	Accept a swap request
 📁 Folder Structure
 
 slotswap/
-│
+
 
 ├── backend/
 
@@ -77,7 +77,7 @@ slotswap/
 │   ├── swap_requests.json
 
 │   └── package.json
-│
+
 
 ├── frontend/
 
@@ -92,7 +92,6 @@ slotswap/
 │   ├── vite.config.js
 
 │   └── package.json
-│
 
 └── README.md
 
